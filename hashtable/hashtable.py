@@ -22,6 +22,16 @@ class HashTableEntry:
             temp = temp.next
         return None
 
+    def getAll(self):
+        temp = self.head
+        dic = []
+        while(temp):
+            x = temp.data
+            y = temp.key
+            dic.append((y, x))
+            temp = temp.next
+        return dic
+
     def delete(self, key):
         temp = self.head
         if (temp is not None):
@@ -40,30 +50,23 @@ class HashTableEntry:
         temp = None
 
 
-# Hash table can't have fewer than this many slots
 MIN_CAPACITY = 8
 
 
 class HashTable:
     def __init__(self, capacity):
-        # Your code here
         if capacity < MIN_CAPACITY:
             self.capacity = MIN_CAPACITY
         else:
             self.capacity = capacity
         self.table = dict.fromkeys(range(self.capacity))
+        self.num = 0
 
     def get_num_slots(self):
-        # Your code here
-        return len(self.table)
+        return self.capacity
 
     def get_load_factor(self):
-        """
-        Return the load factor for this hash table.
-
-        Implement this.
-        """
-        # Your code here
+        return self.num / self.capacity
 
     def djb2(self, key):
         hash = 5381
@@ -75,9 +78,8 @@ class HashTable:
         return self.djb2(key) % self.capacity
 
     def put(self, key, value):
-        # Your code here
         new = self.hash_index(key)
-        # old = self.table[new]
+        self.num += 1
         if self.table[new] != None:
             self.table[new].add(value, key)
         else:
@@ -86,24 +88,24 @@ class HashTable:
             self.table[new] = lst
 
     def delete(self, key):
-        # Your code here
         i = self.hash_index(key)
         self.table[i].delete(key)
+        self.num -= 1
 
     def get(self, key):
-        # Your code here
         i = self.hash_index(key)
         x = self.table[i].get(key)
         return x
 
     def resize(self, new_capacity):
-        """
-        Changes the capacity of the hash table and
-        rehashes all key/value pairs.
-
-        Implement this.
-        """
-        # Your code here
+        dic = []
+        for i in range(self.capacity):
+            x = self.table[i].getAll()
+            dic.extend(x)
+        self.capacity = new_capacity
+        self.table = dict.fromkeys(range(self.capacity))
+        for i in dic:
+            self.put(i[0], i[1])
 
 
 if __name__ == "__main__":

@@ -1,12 +1,43 @@
-class HashTableEntry:
-    """
-    Linked List hash table key/value pair
-    """
-
-    def __init__(self, key, value):
+class Node:
+    def __init__(self, data, key):
+        self.data = data
         self.key = key
-        self.value = value
         self.next = None
+
+
+class HashTableEntry:
+    def __init__(self):
+        self.head = None
+
+    def add(self, val, key):
+        new = Node(val, key)
+        new.next = self.head
+        self.head = new
+
+    def get(self, key):
+        temp = self.head
+        while(temp):
+            if temp.key == key:
+                return temp.data
+            temp = temp.next
+        return None
+
+    def delete(self, key):
+        temp = self.head
+        if (temp is not None):
+            if (temp.key == key):
+                self.head = temp.next
+                temp = None
+                return
+        while(temp is not None):
+            if temp.key == key:
+                break
+            prev = temp
+            temp = temp.next
+        if(temp == None):
+            return
+        prev.next = temp.next
+        temp = None
 
 
 # Hash table can't have fewer than this many slots
@@ -14,31 +45,15 @@ MIN_CAPACITY = 8
 
 
 class HashTable:
-    """
-    A hash table that with `capacity` buckets
-    that accepts string keys
-
-    Implement this.
-    """
-
     def __init__(self, capacity):
         # Your code here
-        if capacity < 8:
-            self.capacity = 8
+        if capacity < MIN_CAPACITY:
+            self.capacity = MIN_CAPACITY
         else:
             self.capacity = capacity
-        self.table = {}
+        self.table = dict.fromkeys(range(self.capacity))
 
     def get_num_slots(self):
-        """
-        Return the length of the list you're using to hold the hash
-        table data. (Not the number of items stored in the hash table,
-        but the number of slots in the main list.)
-
-        One of the tests relies on this.
-
-        Implement this.
-        """
         # Your code here
         return len(self.table)
 
@@ -50,68 +65,36 @@ class HashTable:
         """
         # Your code here
 
-    def fnv1(self, key):
-        """
-        FNV-1 Hash, 64-bit
-
-        Implement this, and/or DJB2.
-        """
-
-        # Your code here
-
     def djb2(self, key):
-        """
-        DJB2 hash, 32-bit
-
-        Implement this, and/or FNV-1.
-        """
         hash = 5381
         for c in key:
             hash = (hash*33)+ord(c)
         return hash
 
     def hash_index(self, key):
-        """
-        Take an arbitrary key and return a valid integer index
-        between within the storage capacity of the hash table.
-        """
         return self.djb2(key) % self.capacity
 
     def put(self, key, value):
-        """
-        Store the value with the given key.
-
-        Hash collisions should be handled with Linked List Chaining.
-
-        Implement this.
-        """
         # Your code here
         new = self.hash_index(key)
-        self.table[new] = value
+        # old = self.table[new]
+        if self.table[new] != None:
+            self.table[new].add(value, key)
+        else:
+            lst = HashTableEntry()
+            lst.add(value, key)
+            self.table[new] = lst
 
     def delete(self, key):
-        """
-        Remove the value stored with the given key.
-
-        Print a warning if the key is not found.
-
-        Implement this.
-        """
         # Your code here
         i = self.hash_index(key)
-        self.table[i] = None
+        self.table[i].delete(key)
 
     def get(self, key):
-        """
-        Retrieve the value stored with the given key.
-
-        Returns None if the key is not found.
-
-        Implement this.
-        """
         # Your code here
         i = self.hash_index(key)
-        return self.table[i]
+        x = self.table[i].get(key)
+        return x
 
     def resize(self, new_capacity):
         """

@@ -1,6 +1,10 @@
 def no_dups(s):
     # Your code here
-
+    y = s.split()
+    seen = set()
+    y = [x for x in y if not (x in seen or seen.add(x))]
+    y = ' '.join(y)
+    return y
 
 
 if __name__ == "__main__":

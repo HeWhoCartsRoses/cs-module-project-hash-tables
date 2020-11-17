@@ -1,0 +1,350 @@
+Flooded Strand
+Mana Vault
+Necropotence
+Ad Nauseam
+Chrome Mox
+Gemstone Caverns
+Sylvan Library
+Demonic Tutor
+Vampiric Tutor
+Wooded Foothills
+Force of Will
+Lim-Dul's Vault
+Enlightened Tutor
+Demonic Consultation
+Carpet of Flowers
+Dark Confidant
+Mana Confluence
+Gilded Drake
+Scalding Tarn
+Elves of Deep Shadow
+Noble Hierarch
+Mana Drain
+Marsh Flats
+Polluted Delta
+Vexing Shusher
+Dockside Extortionist
+Assassin's Trophy
+Breeding Pool
+Verdant Catacombs
+Dark Ritual
+Food Chain
+Tainted Pact
+Windswept Heath
+Mana Crypt
+Bloodstained Mire
+Exotic Orchard
+Lotus Petal
+Jace, Wielder of Mysteries
+Spell Pierce
+Arbor Elf
+Silence
+Command Tower
+Preordain
+Thassa's Oracle
+Entomb
+Noxious Revival
+Swan Song
+Soul-Guide Lantern
+Squee, the Immortal
+Birds of Paradise
+Ponder
+Brainstorm
+By Force
+Misthollow Griffin
+Yavimaya Coast
+Forest
+Scrubland
+Timetwister
+Taiga
+Savannah
+Tundra
+Tropical Island
+Volcanic Island
+Bayou
+Underground Sea
+Imperial Seal
+The First Sliver
+Abrupt Decay
+Dovin's Veto
+Deathrite Shaman
+Sol Ring
+Gitaxian Probe
+Elvish Mystic
+Mental Misstep
+City of Brass
+Llanowar Wastes
+Chain of Vapor
+Overgrown Tomb
+Foresight
+Boreal Druid
+Hallowed Fountain
+Laboratory Maniac
+Delay
+Manipulate Fate
+Mystical Tutor
+Veil of Summer
+Eternal Scourge
+Nature's Claim
+Wall of Roots
+Pact of Negation
+Avacyn's Pilgrim
+Mystic Remora
+Llanowar Elves
+Reap
+Dispel
+Watery Grave
+Rapid Hybridization
+Nurturing Peatland
+Fyndhorn Elves
+Flusterstorm
+Aven Mindcensor
+Containment Priest
+Drannith Magistrate
+Eidolon of Rhetoric
+Ethersworn Canonist
+Hushbringer
+Hushwing Gryff
+Path to Exile
+Pull from Eternity
+Retribution of the Meek
+Smothering Tithe
+Swords to Plowshares
+Blue Sun's Zenith
+Blink of an Eye
+Brain Freeze
+Capsize
+Consecrated Sphinx
+Counterspell
+Curiosity
+Cyclonic Rift
+Dig Through Time
+Dramatic Reversal
+Echo of Eons
+Fabricate
+Fact or Fiction
+Fierce Guardianship
+Frantic Search
+Gush
+High Tide
+Impulse
+Insight
+Into the Roil
+Intuition
+Legacy's Allure
+Memory's Journey
+Merchant Scroll
+Misdirection
+Narcomoeba
+Narset, Parter of Veils
+Narset's Reversal
+Nexus of Fate
+Opt
+Paradoxical Outcome
+Phantasmal Image
+Pongify
+Predict
+Reality Shift
+Reshape
+Rhystic Study
+Serum Visions
+Sleight of Hand
+Snap
+Spellseeker
+Stasis
+Steal Enchantment
+Stifle
+Stroke of Genius
+Tezzeret the Seeker
+Training Grounds
+Verity Circle
+Whirlwind Denial
+Whir of Invention
+Windfall
+Winds of Rebuke
+Animate Dead
+Blood Artist
+Buried Alive
+Carrion Feeder
+Culling the Weak
+Dance of the Dead
+Dark Petition
+Diabolic Intent
+Doomsday
+Dread Return
+Mindblade Return
+Mausoleum Secrets
+Necromancy
+Nether Void
+Night's Whisper
+Rain of Filth
+Reanimate
+Reprocess
+Slaughter Pact
+Street Wraith
+Toxic Deluge
+Unearth
+Vilis, Broker of Blood
+Razaketh, the Foulblooded
+Viscera Seer
+Godo, Bandit Warlord
+Final Fortune
+Freed from the Real
+Abrade
+Anger of the Gods
+Conspicuous Snoop
+Curse of Opulence
+Daretti, Scrap Savant
+Deflecting Swat
+Faithless Looting
+Gamble
+Goblin Bombardment
+Goblin Cratermaker
+Goblin Matron
+Goblin Welder
+Kiki-Jiki, Mirror Breaker
+Lightning Bolt
+Magus of the Moon
+Najeela, the Blade Blossom
+Orcish Lumberjack
+Possibility Storm
+Pyroblast
+Pyroclasm
+Red Elemental Blast
+Stranglehold
+Thunderscape Familiar
+Underworld Breach
+Vandalblast
+Wheel of Fortune
+Worldgorger Dragon
+Autumn's Veil
+Azuza, Lost but Seeking
+Bloom Tender
+Burgeoning
+Caustic Caterpillar
+Collector Ouphe
+Compost
+Crop Rotation
+Destiny Spinner
+Druids' Repository
+Dryad Arbor
+Eldritch Evolution
+Elvish Spirit Guide
+Fauna Shaman
+Green Sun's Zenith
+hermit Druid
+Kenrith's Transformation
+Ley Weaver
+Life from the Loam
+Manglehorn
+Oakhame Adversary
+Priest of Titania
+Riftsweeper
+Ramunap Excavator
+Satyr Hedonist
+Seedborn Muse
+Spore Frog
+Summoner's Pact
+Sylvan Safekeeper
+Temur Sabertooth
+Unbridled Growth
+Utopia Sprawl
+Wild Growth
+Worldly Tutor
+Scavenging Ooze
+Aetherflux Resevoir
+Arcane Signet
+Basalt Monolith
+Codex Shredder
+Crucible of Worlds
+Cursed Totem
+Defense Grid
+Everflowing Chalice
+Fellwar Stone
+Gilded Lotus
+Gruul Signet
+Grafdigger's Cage
+Grim Monolith
+Isochron Scepter
+Karn, the Great Creator
+Krark-Clan Ironworks
+Lion's Eye Diamond
+Metalworker
+Mishra's Bauble
+Mox Amber
+Panharmonicon
+Proteus Staff
+Rakdos Signet
+Sensei's Divining Top
+Simic Signet
+Smokestack
+Static Orb
+Talisman of Curiosity
+Talisman of Progress
+Tangle Wire
+Thorn of Amethyst
+Tormod's Crypt
+Torpor Orb
+Voltaic Key
+Winter Orb
+Ashiok, Dream Render
+Azra Oddsmaker
+Biomancer's Familiar
+Cindervines
+Darevi, Empyrial Tactician
+Drown in the Loch
+Eladamri's Call
+Faeburrow Elder
+Fire Covenant
+The Gitrog Monster
+Kalamax, the Stormsire
+Kess, Dissident Mage
+Korvold, Fae-Cursed King
+Mayhem Devil
+Neoform
+Notion Thief
+Oko, Thief of Crowns
+Rhythm of the Wild
+Squandered Resources
+Tana, the Bloodsower
+Tawnos, Urza's Apprentice
+Teferi, Time Raveler
+Thrasios, Triton Hero
+Tymna the Weaver
+Ukkima, Stalking Shadow
+Underrealm Lich
+Vial Smasher the Fierce
+Wild Cantor
+Zirda, the Dawnwaker
+Academy Ruins
+Adarkar Wastes
+Ancient Tomb
+Arid Mesa
+Badlands
+Blast Zone
+Blood Crypt
+Bountiful Promenade
+Buried Ruin
+Cabal Pit
+Dakmor Salvage
+Drowned Catacomb
+Emergence Zone
+Ghost Quarter
+Godless Shrine
+Grove of the Burnwillows
+Inventors' Fair
+Island
+Mishra's Workshop
+Mountain
+Mutavault
+Mystic Sanctuary
+Plateau
+Sacred Foundry
+Steam Vents
+Stomping Ground
+Swamp
+The Tabernacle at Pendrell Vale
+Temple Garden
+Wasteland
+Waterlogged Grove
+Wooded Bastion

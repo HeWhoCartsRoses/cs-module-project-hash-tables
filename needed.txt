@@ -1,1 +1,603 @@
-Abandon ReasonAcademy RectorAether AdeptAether SpellbombAether VialAetherflux ReservoirAlchemist's GreetingAllosaurus ShepherdAlms CollectorAlms of the VeinAltar of BoneAlurenAnafenza, the ForemostAncestral StatueAncient ZigguratAngel's GraceAnimar, Soul of ElementsAnje FalkenrathAnje's RavagerApprentice NecromancerArcane DenialArchaeomancerArchfiend of SpiteArchon of EmeriaArchon of Valor's ReachArcum's AstrolabeArgentum ArmorAsh BarrensAshaya, Soul of the WildAshnod's AltarAsylum VisitorAtla Palani, Nest TenderAura of SilenceAuriok SalvagersAvacyn's JudgmentAzorius SignetBack to BasicsBag of HoldingBaleful StrixBane of ProgressBarren MoorBarrin, Master WizardBazaar of BaghdadBeast WhispererBeast WithinBeastcaller SavantBenefactor's DraughtBerserkBeseech the QueenBig Game HunterBirchlore RangersBirthing PodBiting RainBlackcleave CliffsBlinkmoth InfusionBlinkmoth NexusBlood CelebrantBlood MoonBlood PetBloodhall PriestBloodmad VampireBlooming MarshBlossoming DefenseBody DoubleBody SnatcherBolas's CitadelBond BeetleBonus RoundBoseiju, Who Shelters AllBotanical SanctumBounding KrasisBrago, King EternalBrain GorgersBrallin, Skyshark RiderBrass SquireBrazen Borrower / Petty TheftBreaching HippocampBruse Tarl, Boorish HerderBrushlandBurning InquiryBurnoutBurnt OfferingCabal RitualCabal TherapyCall to the NetherworldCaptain SisayCareful StudyCascade BluffsCastle GarenbrigCavern HarpyCavern of SoulsCaves of KoilosCazur, Ruthless StalkerCephalid ColiseumCephalid IllusionistChain of SmogChainer, Dementia MasterChains of MephistophelesChakram RetrieverChalice of the VoidChangeling OutcastChaos WarpChord of CallingChulane, Teller of TalesCity of TraitorsClearwater Pathway / Murkwater PathwayCling to DustCloud KeyCloud of FaeriesCloudstone CurioCoiling OracleCollective BrutalityCommand BeaconCommandeerConclave MentorConqueror's FlailCopperline GorgeCopy ArtifactCorpse DanceCorpse KnightCorridor MonitorCounterbalanceCover of DarknessCrashing DrawbridgeCraterhoof BehemothCruel BargainCryptic TrilobiteCrystal VeinCurse of Fool's WisdomDark DealDark WitheringDarkslick ShoresDarksteel CitadelDeadeye NavigatorDeadly RollickDeafening SilenceDeceiver ExarchDerevi, Empyrial TacticianDetention SphereDevoted DruidDimir SignetDire Fleet DaredevilDisciple of the VaultDisenchantDismemberDisrupting ShoalDistemper of the BloodDivergent TransformationsDomri, Anarch of BolasDrag to the UnderworldDromoka's CommandDualcaster MageDuressDwarven RuinsEarthcraftEdric, Spymaster of TrestElectrickeryElesh Norn, Grand CenobiteElsha of the InfiniteEmiel the BlessedEternal WitnessEtherium SculptorEvolutionary LeapExpedition MapExplorationExtirpateExtractFaerie SeerFatal PushFatestitcherFblthp, the LostFeed the SwarmFelidar GuardianFertile GroundFiend ArtisanFierce EmpathFiery ConfluenceFiery IsletFiery TemperFinal PartingFinale of DevastationFinale of PromiseFire ProphecyFire-Lit ThicketFlame SweepFlooded GroveFoilFont of AgoniesForbidden OrchardForce of NegationForce of VigorForkFourth Bridge ProwlerFrenzied FugueFrom Under the FloorboardsFryFuture SightGaea's CradleGarruk, Primal HunterGemstone MineGenerous PatronGenesis WaveGeth's GrimoireGhalta, Primal HungerGhave, Guru of SporesGhostly PilfererGibbering DescentGingerbruteGisa's BiddingGlamerdyeGlimmervoidGlimpse of NatureGoblin EngineerGoblin RecruiterGoblin SharpshooterGolgari Grave-TrollGolgari ThugGorgon RecluseGoryo's VengeanceGrand AbolisherGrand Arbiter Augustin IVGrasp of FateGrave ScrabblerGravecrawlerGraven CairnsGray Merchant of AsphodelGreat FurnaceGreat Oak GuardianGreater GoodGreenwarden of MurasaGrenzo, Dungeon WardenGrim FlayerGrim TutorGrinding StationHall of Heliod's GenerosityHall of the Bandit LordHammer of NazahnHeat ShimmerHelm of AwakeningHelm of ObedienceHelm of the HostHeritage DruidHermit DruidHokori, Dust DrinkerHomeward PathHonor-Worn ShakuHope of GhirapurHorizon CanopyHullbreacherHurkyl's RecallHyrax Tower ScoutIce-Fang CoatlIchor SlickImp's MischiefImperial RecruiterInalla, Archmage RitualistIncorrigible YouthsInfernal DarknessInfernal PlungeInferno TitanIngenious InfiltratorInquisition of KozilekInsatiable GorgersInstill EnergyInvigorateIrrigated FarmlandIzzet SignetIzzet StaticasterJace, Vryn's ProdigyJeska's WillJet MedallionJeweled AmuletJeweled LotusJin-Gitaxias, Core AugurJoraga TreespeakerK'rrik, Son of YawgmothKambal, Consul of AllocationKarametra's AcolyteKarmic GuideKarplusan ForestKeen SenseKenrith, the Returned KingKessig Wolf RunKindred DiscoveryKinnan, Bonder ProdigyKiora's FollowerKira, Great Glass-SpinnerKiri-OnnaKogla, the Titan ApeKolaghan's CommandKozilek, Butcher of TruthKraum, Ludevic's OpusKroxa, Titan of Death's HungerKunoros, Hound of AthreosKykar, Wind's FuryLake of the DeadLavinia, Azorius RenegadeLeshrac's SigilLesser MasticoreLeyline of the VoidLife / DeathLife's LegacyLightning GreavesLignifyLiliana's TriumphLim-Dûl's VaultLinvala, Keeper of SilenceLithoform EngineLiving PlaneLlanowar TribeLotus CobraLoyal ApprenticeLoyal DrakeLuminarch AscensionLure of PreyLurrus of the Dream-DenLuxury SuiteMagnetic TheftMalevolent WhispersMana BreachMana LeakManamorphoseManifold InsightsManifold KeyMaralen of the MornsongMarath, Will of the WildMassacreMausoleum WandererMelira, Sylvok OutcastMeltdownMemniteMerchant of the Vale / HaggleMetallic MimicMinamo, School at Water's EdgeMind BendMind RakeMind StoneMindblade RenderMirror EntityMiscastMist-Syndicate NagaMistblade ShinobiMisty RainforestMnemonic BetrayalMogg FanaticMogg RaiderMomentous FallMomir Vig, Simic VisionaryMorphic PoolMothdust ChangelingMouth of RonomMox DiamondMox OpalMuck DrubbMuddle the MixtureMulldrifterMurderous CompulsionMurderous RedcapNajeela, the Blade-BlossomNatural OrderNature's ChosenNature's LoreNature's WillNegateNettle SentinelNezahal, Primal TideNightshade AssassinNightshade PeddlerNihil SpellbombNinja of the Deep HoursNiv-Mizzet, ParunNomads en-KorNoose ConstrictorNull RodNykthos, Shrine to NyxOath of JaceOblivion CrownOboro, Palace in the CloudsOhran FrostfangOkina, Temple to the GrandfathersOmen of the SeaOphidian EyeOpposition AgentOppressionOrnithopterOverburdenOvereager ApprenticePainter's ServantPalinchronPattern of RebirthPeat BogPeer into the AbyssPendelhavenPentad PrismPeregrine DrakePersonal TutorPhyrexian AltarPhyrexian DreadnoughtPhyrexian MetamorphPhyrexian RevokerPhyrexian SoulgorgerPhyrexian TowerPhyrexian WalkerPlague EngineerPlainsPlunge into DarknessPolymorphPostmortem LungePower ArtifactPraetor's GraspPriest of UrabraskPrime Speaker VannifarPrismatic LensPrismatic VistaProphetic PrismProtean HulkProwling SerpopardPsychotic EpisodePsychotic HazePutrid ImpPyrokinesisQasali PridemageQuickenQuirion RangerRanger-Captain of EosRashmi, Eternities CrafterReality AcidReckless WurmReclamation SageRecruiter of the GuardRecurring InsightReflecting PoolRegal ForceRejuvenating SpringsRelic GolemRest in PeaceReturn of the WildspeakerReverent SilenceRicochet TrapRings of BrighthearthRishkar's ExpertiseRishkar, Peema RenegadeRite of FlameRiver of TearsRolling EarthquakeRoot MazeRoughRule of LawRunic ArmasaurRuric Thar, the UnbowedSacrificeSakashima the ImpostorSakashima's StudentSakura-Tribe ScoutSamurai of the Pale CurtainSandstone NeedleSapphire MedallionSaprazzan SkerrySavage SummoningScavenger GroundsScroll RackScryb RangerSea Gate Restoration / Sea Gate, RebornSea of CloudsSeething SongSelvala, Heart of the WildsSenseless RageSerra AscendantSevinne's ReclamationShabraz, the SkysharkShadow of the GraveShallow GraveShaman of Forgotten WaysShared SummonsShattering SpreeSheltering AncientShimmer MyrShivan GorgeShivan ReefShizo, Death's StorehouseShrieking DrakeSidisi's FaithfulSign in BloodSimian Spirit GuideSire of InsanitySiren StormtamerSkirk ProspectorSkullclampSkullsnatcherSkyclave ApparitionSkycloud ExpanseSleight of MindSlithermuseSmuggler's CopterSnapbackSnow-Covered ForestSnow-Covered IslandSnow-Covered MountainSnow-Covered PlainsSnow-Covered SwampSnuff OutSomberwald SageSomberwald StagSong of the DryadsSoul's MajestySpectral SailorSpell SnareSpellskiteSphere of ResistanceSpire GardenSpire of IndustrySpirit of the LabyrinthSplinter TwinSpringleaf DrumSquirrel NestStaff of DominationStensia MasqueradeStern DismissalStitcher's SupplierStony SilenceStormscape FamiliarStrangleroot GeistStrength of LunacyStrionic ResonatorStrip MineStromkirk OccultistStubborn DenialSubmergeSudden DemiseSulfurous SpringsSunbaked CanyonSunken RuinsSunscorched DesertSurvival of the FittestSweltering SunsSygg, River CutthroatSylvan ScryingSylvan TutorTalisman of ConvictionTalisman of CreativityTalisman of DominanceTalisman of IndulgenceTalisman of ResilienceTandem LookoutTarnished CitadelTasigur, the Golden FangTayam, Luminous EnigmaTeardrop KamiTeferi, Hero of DominariaTeferi, Master of TimeTeferi, Temporal ArchmageTemporal TrespassTendo Ice BridgeTetsuko Umezawa, FugitiveThalia, Guardian of ThrabenThe Chain VeilThought-Knot SeerThoughtseizeThousand-Year ElixirThran DynamoThran QuarryThree VisitsThrill of PossibilityThunderclapTidal BarracudaTidespout TyrantTime SpiralTinder WallTireless TrackerTolaria WestTooth and NailTorch CourierTrail of EvidenceTraining CenterTrait DoctoringTransmute ArtifactTreasonous OgreTrial of KnowledgeTribute MageTrinisphereTrinket MageTrophy MageTurntimber Symbiosis / Turntimber, Serpentine WoodTwilight MireTwinflameTwins of Maurer EstateUgin, the Spirit DragonUlamog, the Infinite GyreUmbral MantleUnbound FlourishingUnderground RiverUndergrowth StadiumUniversal AutomatonUnsubstantiateUrborgUrborg, Tomb of YawgmothUrza's BaubleUrza, Lord High ArtificerValakut Awakening / Valakut StoneforgeVarolz, the Scar-StripedVault of WhispersVenser, Shaper SavantVicious RumorsVillage Bell-RingerVillage RitesVines of VastwoodViolent EruptionVitalizeVivien, Monsters' AdvocateVizier of the MenagerieVoldaren Pariah / Abolisher of BloodlinesVolrath's ShapeshifterVolrath's StrongholdVryn WingmareWalking BallistaWar RoomWaste NotWearWear / TearWeird HarvestWeirded VampireWelding JarWheel of MisfortuneWhim of VolrathWhispering MadnessWhitemane LionWild MongrelWinds of ChangeWingcrafterWirewood LodgeWirewood SymbioteWishclaw TalismanWitching WellWithering BoonWoodland BellowerWrenn and SixYarok, the DesecratedYavimaya HollowYawgmoth's WillYisan, the Wanderer BardYoung WolfYuriko, the Tiger's ShadowZealous ConscriptsZealous PersecutionZur the EnchanterZuran OrbIDEBOARD:ideboard:
+
+Academy Rector
+Aether Adept
+Aether Spellbomb
+Aether Vial
+Aetherflux Reservoir
+Allosaurus Shepherd
+Alms Collector
+Altar of Bone
+Aluren
+Anafenza, the Foremost
+Ancestral Statue
+Ancient Ziggurat
+Angel's Grace
+Animar, Soul of Elements
+Apprentice Necromancer
+Arcane Denial
+Archaeomancer
+Archon of Emeria
+Archon of Valor's Reach
+Arcum's Astrolabe
+Argentum Armor
+Ash Barrens
+Ashaya, Soul of the Wild
+Ashnod's Altar
+Atla Palani, Nest Tender
+Aura of Silence
+Auriok Salvagers
+Azorius Signet
+Back to Basics
+Baleful Strix
+Bane of Progress
+Barren Moor
+Barrin, Master Wizard
+Bazaar of Baghdad
+Beast Whisperer
+Beast Within
+Beastcaller Savant
+Benefactor's Draught
+Berserk
+Beseech the Queen
+Birchlore Rangers
+Birthing Pod
+Blackcleave Cliffs
+Blinkmoth Infusion
+Blinkmoth Nexus
+Blood Celebrant
+Blood Moon
+Blood Pet
+Blooming Marsh
+Blossoming Defense
+Body Double
+Body Snatcher
+Bolas's Citadel
+Bond Beetle
+Bonus Round
+Boseiju, Who Shelters All
+Botanical Sanctum
+Bounding Krasis
+Brago, King Eternal
+Brallin, Skyshark Rider
+Brass Squire
+Brazen Borrower / Petty Theft
+Breaching Hippocamp
+Bruse Tarl, Boorish Herder
+Brushland
+Burning Inquiry
+Burnout
+Burnt Offering
+Cabal Ritual
+Cabal Therapy
+Captain Sisay
+Careful Study
+Cascade Bluffs
+Castle Garenbrig
+Cavern Harpy
+Cavern of Souls
+Caves of Koilos
+Cazur, Ruthless Stalker
+Cephalid Coliseum
+Cephalid Illusionist
+Chain of Smog
+Chainer, Dementia Master
+Chains of Mephistopheles
+Chakram Retriever
+Chalice of the Void
+Changeling Outcast
+Chaos Warp
+Chord of Calling
+Chulane, Teller of Tales
+City of Traitors
+Clearwater Pathway / Murkwater Pathway
+Cling to Dust
+Cloud Key
+Cloud of Faeries
+Cloudstone Curio
+Coiling Oracle
+Collective Brutality
+Command Beacon
+Commandeer
+Conclave Mentor
+Conqueror's Flail
+Copperline Gorge
+Copy Artifact
+Corpse Dance
+Corpse Knight
+Corridor Monitor
+Counterbalance
+Cover of Darkness
+Crashing Drawbridge
+Craterhoof Behemoth
+Cruel Bargain
+Cryptic Trilobite
+Crystal Vein
+Dark Deal
+Darkslick Shores
+Darksteel Citadel
+Deadeye Navigator
+Deadly Rollick
+Deafening Silence
+Deceiver Exarch
+Derevi, Empyrial Tactician
+Detention Sphere
+Devoted Druid
+Dimir Signet
+Dire Fleet Daredevil
+Disciple of the Vault
+Disenchant
+Dismember
+Disrupting Shoal
+Divergent Transformations
+Domri, Anarch of Bolas
+Drag to the Underworld
+Dromoka's Command
+Dualcaster Mage
+Duress
+Dwarven Ruins
+Earthcraft
+Edric, Spymaster of Trest
+Electrickery
+Elesh Norn, Grand Cenobite
+Elsha of the Infinite
+Emiel the Blessed
+Eternal Witness
+Etherium Sculptor
+Evolutionary Leap
+Expedition Map
+Exploration
+Extirpate
+Extract
+Faerie Seer
+Fatal Push
+Fatestitcher
+Fblthp, the Lost
+Feed the Swarm
+Felidar Guardian
+Fertile Ground
+Fiend Artisan
+Fierce Empath
+Fiery Confluence
+Fiery Islet
+Final Parting
+Finale of Devastation
+Finale of Promise
+Fire Prophecy
+Fire-Lit Thicket
+Flame Sweep
+Flooded Grove
+Foil
+Font of Agonies
+Forbidden Orchard
+Force of Negation
+Force of Vigor
+Fork
+Fourth Bridge Prowler
+Frenzied Fugue
+Fry
+Future Sight
+Gaea's Cradle
+Garruk, Primal Hunter
+Gemstone Mine
+Generous Patron
+Genesis Wave
+Geth's Grimoire
+Ghalta, Primal Hunger
+Ghave, Guru of Spores
+Ghostly Pilferer
+Gingerbrute
+Glamerdye
+Glimmervoid
+Glimpse of Nature
+Goblin Engineer
+Goblin Recruiter
+Goblin Sharpshooter
+Golgari Grave-Troll
+Golgari Thug
+Goryo's Vengeance
+Grand Abolisher
+Grand Arbiter Augustin IV
+Grasp of Fate
+Gravecrawler
+Graven Cairns
+Gray Merchant of Asphodel
+Great Furnace
+Great Oak Guardian
+Greater Good
+Greenwarden of Murasa
+Grenzo, Dungeon Warden
+Grim Flayer
+Grim Tutor
+Grinding Station
+Hall of Heliod's Generosity
+Hall of the Bandit Lord
+Hammer of Nazahn
+Heat Shimmer
+Helm of Awakening
+Helm of Obedience
+Helm of the Host
+Heritage Druid
+Hermit Druid
+Hokori, Dust Drinker
+Homeward Path
+Honor-Worn Shaku
+Hope of Ghirapur
+Horizon Canopy
+Hullbreacher
+Hurkyl's Recall
+Hyrax Tower Scout
+Ice-Fang Coatl
+Imp's Mischief
+Imperial Recruiter
+Inalla, Archmage Ritualist
+Infernal Darkness
+Infernal Plunge
+Inferno Titan
+Ingenious Infiltrator
+Inquisition of Kozilek
+Instill Energy
+Invigorate
+Irrigated Farmland
+Izzet Signet
+Izzet Staticaster
+Jace, Vryn's Prodigy
+Jeska's Will
+Jet Medallion
+Jeweled Amulet
+Jeweled Lotus
+Jin-Gitaxias, Core Augur
+Joraga Treespeaker
+K'rrik, Son of Yawgmoth
+Kambal, Consul of Allocation
+Karametra's Acolyte
+Karmic Guide
+Karplusan Forest
+Keen Sense
+Kenrith, the Returned King
+Kessig Wolf Run
+Kindred Discovery
+Kinnan, Bonder Prodigy
+Kiora's Follower
+Kira, Great Glass-Spinner
+Kiri-Onna
+Kogla, the Titan Ape
+Kolaghan's Command
+Kozilek, Butcher of Truth
+Kraum, Ludevic's Opus
+Kroxa, Titan of Death's Hunger
+Kunoros, Hound of Athreos
+Kykar, Wind's Fury
+Lake of the Dead
+Lavinia, Azorius Renegade
+Leshrac's Sigil
+Lesser Masticore
+Leyline of the Void
+Life / Death
+Life's Legacy
+Lightning Greaves
+Lignify
+Liliana's Triumph
+Lim-Dûl's Vault
+Linvala, Keeper of Silence
+Lithoform Engine
+Living Plane
+Llanowar Tribe
+Lotus Cobra
+Loyal Apprentice
+Loyal Drake
+Luminarch Ascension
+Lure of Prey
+Lurrus of the Dream-Den
+Luxury Suite
+Magnetic Theft
+Mana Breach
+Mana Leak
+Manamorphose
+Manifold Insights
+Manifold Key
+Maralen of the Mornsong
+Marath, Will of the Wild
+Massacre
+Mausoleum Wanderer
+Melira, Sylvok Outcast
+Meltdown
+Memnite
+Metallic Mimic
+Minamo, School at Water's Edge
+Mind Bend
+Mind Rake
+Mind Stone
+Mindblade Render
+Mirror Entity
+Miscast
+Mist-Syndicate Naga
+Mistblade Shinobi
+Misty Rainforest
+Mnemonic Betrayal
+Mogg Fanatic
+Mogg Raider
+Momentous Fall
+Momir Vig, Simic Visionary
+Morphic Pool
+Mothdust Changeling
+Mouth of Ronom
+Mox Diamond
+Mox Opal
+Muddle the Mixture
+Mulldrifter
+Murderous Redcap
+Najeela, the Blade-Blossom
+Natural Order
+Nature's Chosen
+Nature's Lore
+Nature's Will
+Negate
+Nettle Sentinel
+Nezahal, Primal Tide
+Nightshade Peddler
+Nihil Spellbomb
+Ninja of the Deep Hours
+Niv-Mizzet, Parun
+Nomads en-Kor
+Noose Constrictor
+Null Rod
+Nykthos, Shrine to Nyx
+Oath of Jace
+Oblivion Crown
+Oboro, Palace in the Clouds
+Ohran Frostfang
+Okina, Temple to the Grandfathers
+Omen of the Sea
+Ophidian Eye
+Opposition Agent
+Oppression
+Ornithopter
+Overburden
+Overeager Apprentice
+Painter's Servant
+Palinchron
+Pattern of Rebirth
+Peat Bog
+Peer into the Abyss
+Pendelhaven
+Pentad Prism
+Peregrine Drake
+Personal Tutor
+Phyrexian Altar
+Phyrexian Dreadnought
+Phyrexian Metamorph
+Phyrexian Revoker
+Phyrexian Soulgorger
+Phyrexian Tower
+Phyrexian Walker
+Plague Engineer
+Plains
+Plunge into Darkness
+Polymorph
+Postmortem Lunge
+Power Artifact
+Praetor's Grasp
+Priest of Urabrask
+Prime Speaker Vannifar
+Prismatic Lens
+Prismatic Vista
+Prophetic Prism
+Protean Hulk
+Prowling Serpopard
+Putrid Imp
+Pyrokinesis
+Qasali Pridemage
+Quicken
+Quirion Ranger
+Ranger-Captain of Eos
+Rashmi, Eternities Crafter
+Reality Acid
+Reclamation Sage
+Recruiter of the Guard
+Recurring Insight
+Reflecting Pool
+Regal Force
+Rejuvenating Springs
+Relic Golem
+Rest in Peace
+Return of the Wildspeaker
+Reverent Silence
+Ricochet Trap
+Rings of Brighthearth
+Rishkar's Expertise
+Rishkar, Peema Renegade
+Rite of Flame
+River of Tears
+Rolling Earthquake
+Root Maze
+Rough
+Rule of Law
+Runic Armasaur
+Ruric Thar, the Unbowed
+Sacrifice
+Sakashima the Impostor
+Sakashima's Student
+Sakura-Tribe Scout
+Samurai of the Pale Curtain
+Sandstone Needle
+Sapphire Medallion
+Saprazzan Skerry
+Savage Summoning
+Scavenger Grounds
+Scroll Rack
+Scryb Ranger
+Sea Gate Restoration / Sea Gate, Reborn
+Sea of Clouds
+Seething Song
+Selvala, Heart of the Wilds
+Serra Ascendant
+Sevinne's Reclamation
+Shabraz, the Skyshark
+Shallow Grave
+Shaman of Forgotten Ways
+Shared Summons
+Shattering Spree
+Sheltering Ancient
+Shimmer Myr
+Shivan Gorge
+Shivan Reef
+Shizo, Death's Storehouse
+Shrieking Drake
+Sidisi's Faithful
+Sign in Blood
+Simian Spirit Guide
+Sire of Insanity
+Siren Stormtamer
+Skirk Prospector
+Skullclamp
+Skullsnatcher
+Skyclave Apparition
+Skycloud Expanse
+Sleight of Mind
+Slithermuse
+Smuggler's Copter
+Snapback
+Snow-Covered Forest
+Snow-Covered Island
+Snow-Covered Mountain
+Snow-Covered Plains
+Snow-Covered Swamp
+Snuff Out
+Somberwald Sage
+Somberwald Stag
+Song of the Dryads
+Soul's Majesty
+Spectral Sailor
+Spell Snare
+Spellskite
+Sphere of Resistance
+Spire Garden
+Spire of Industry
+Spirit of the Labyrinth
+Splinter Twin
+Springleaf Drum
+Squirrel Nest
+Staff of Domination
+Stern Dismissal
+Stitcher's Supplier
+Stony Silence
+Stormscape Familiar
+Strangleroot Geist
+Strionic Resonator
+Strip Mine
+Stubborn Denial
+Submerge
+Sudden Demise
+Sulfurous Springs
+Sunbaked Canyon
+Sunken Ruins
+Sunscorched Desert
+Survival of the Fittest
+Sweltering Suns
+Sygg, River Cutthroat
+Sylvan Scrying
+Sylvan Tutor
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Dominance
+Talisman of Indulgence
+Talisman of Resilience
+Tandem Lookout
+Tarnished Citadel
+Tasigur, the Golden Fang
+Tayam, Luminous Enigma
+Teardrop Kami
+Teferi, Hero of Dominaria
+Teferi, Master of Time
+Teferi, Temporal Archmage
+Temporal Trespass
+Tendo Ice Bridge
+Tetsuko Umezawa, Fugitive
+Thalia, Guardian of Thraben
+The Chain Veil
+Thought-Knot Seer
+Thoughtseize
+Thousand-Year Elixir
+Thran Dynamo
+Thran Quarry
+Three Visits
+Thrill of Possibility
+Thunderclap
+Tidal Barracuda
+Tidespout Tyrant
+Time Spiral
+Tinder Wall
+Tireless Tracker
+Tolaria West
+Tooth and Nail
+Torch Courier
+Trail of Evidence
+Training Center
+Trait Doctoring
+Transmute Artifact
+Treasonous Ogre
+Trial of Knowledge
+Tribute Mage
+Trinisphere
+Trinket Mage
+Trophy Mage
+Turntimber Symbiosis / Turntimber, Serpentine Wood
+Twilight Mire
+Twinflame
+Ugin, the Spirit Dragon
+Ulamog, the Infinite Gyre
+Umbral Mantle
+Unbound Flourishing
+Underground River
+Undergrowth Stadium
+Universal Automaton
+Unsubstantiate
+Urborg
+Urborg, Tomb of Yawgmoth
+Urza's Bauble
+Urza, Lord High Artificer
+Valakut Awakening / Valakut Stoneforge
+Varolz, the Scar-Striped
+Vault of Whispers
+Venser, Shaper Savant
+Vicious Rumors
+Village Bell-Ringer
+Village Rites
+Vines of Vastwood
+Vitalize
+Vivien, Monsters' Advocate
+Vizier of the Menagerie
+Volrath's Shapeshifter
+Volrath's Stronghold
+Vryn Wingmare
+Walking Ballista
+War Room
+Waste Not
+Wear
+Wear / Tear
+Weird Harvest
+Welding Jar
+Wheel of Misfortune
+Whim of Volrath
+Whispering Madness
+Whitemane Lion
+Wild Mongrel
+Winds of Change
+Wingcrafter
+Wirewood Lodge
+Wirewood Symbiote
+Wishclaw Talisman
+Witching Well
+Withering Boon
+Woodland Bellower
+Wrenn and Six
+Yarok, the Desecrated
+Yavimaya Hollow
+Yawgmoth's Will
+Yisan, the Wanderer Bard
+Young Wolf
+Yuriko, the Tiger's Shadow
+Zealous Conscripts
+Zealous Persecution
+Zur the Enchanter
+Zuran Orb
